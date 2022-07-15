@@ -1,0 +1,3 @@
+[submodule "aws-server"]
+	path = aws-server
+	url = https://github.com/pinglam/aws-server.git
